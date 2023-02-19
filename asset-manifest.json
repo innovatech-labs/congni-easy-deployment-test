@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/congni-easy-deployment-test/static/css/main.385df5c3.css",
-    "main.js": "/congni-easy-deployment-test/static/js/main.97d642eb.js",
+    "main.css": "/congni-easy-deployment-test/static/css/main.cbdb9369.css",
+    "main.js": "/congni-easy-deployment-test/static/js/main.8acb0345.js",
     "static/js/787.b7444acc.chunk.js": "/congni-easy-deployment-test/static/js/787.b7444acc.chunk.js",
     "index.html": "/congni-easy-deployment-test/index.html",
-    "main.385df5c3.css.map": "/congni-easy-deployment-test/static/css/main.385df5c3.css.map",
-    "main.97d642eb.js.map": "/congni-easy-deployment-test/static/js/main.97d642eb.js.map",
+    "main.cbdb9369.css.map": "/congni-easy-deployment-test/static/css/main.cbdb9369.css.map",
+    "main.8acb0345.js.map": "/congni-easy-deployment-test/static/js/main.8acb0345.js.map",
     "787.b7444acc.chunk.js.map": "/congni-easy-deployment-test/static/js/787.b7444acc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.385df5c3.css",
-    "static/js/main.97d642eb.js"
+    "static/css/main.cbdb9369.css",
+    "static/js/main.8acb0345.js"
   ]
 }
